@@ -1,0 +1,14 @@
+planilhas:
+  - nome_arquivo: "planilha1.xlsx"
+    sistema_cond: 1
+    ambiente: "Sala de Reunião"
+    potencia_btu_h: 12000
+    cop: 3.5
+    fu: "Tipo A"
+    horas_funcionamento_ano: 2000   # opcional
+  - nome_arquivo: "planilha2.xlsx"
+    sistema_cond: 2
+    ambiente: "Escritório"
+    potencia_btu_h: 18000
+    cop: 3.2
+    fu: "Tipo B"
